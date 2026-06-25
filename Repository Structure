@@ -1,0 +1,9 @@
+## Repository Structure
+
+scripts/     - R scripts
+
+results/     - generated figures
+
+data/        - processed data
+
+README.md    - project description
